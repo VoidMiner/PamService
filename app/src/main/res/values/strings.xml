@@ -4,4 +4,12 @@
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="createPass">Создайте код-пароль</string>
     <string name="confirmPass">Подтвердите код-пароль</string>
+    <string name="_2_n">2\nабвг</string>
+    <string name="_3_n">3\nдежз</string>
+    <string name="_4_n">4\nийкл</string>
+    <string name="_5_n">5\nмноп</string>
+    <string name="_6_n">6\nрсту</string>
+    <string name="_7_n">7\nфхцч</string>
+    <string name="_8_n">8\nшщьы</string>
+    <string name="_9_n">9\nъэюя</string>
 </resources>
